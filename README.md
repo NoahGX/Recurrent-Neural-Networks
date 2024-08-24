@@ -9,9 +9,7 @@ The purpose of these Jupyter notebooks is to demonstrate the implementation and 
 - Visualization of prediction results for different names across different models.
 
 ## Usage
-- Ensure all prerequisites are installed.
-- Open the notebooks in Jupyter or another environment that is compatible.
-- Run the cells from top to bottom in order to train the model and see the predictions.
+Run each cell sequentially to train the model and see the predictions.
 
 ## Prerequisites
 - Python 3.6 or newer
@@ -26,5 +24,6 @@ The input to the model consists of names that are provided as strings. The defau
 The output is the predicted nationality for each input name along with the confidence score of the prediction. Outputs are printed directly in the notebook.
 
 ## Notes
+- Ensure all prerequisites are installed
 - The accuracy of predictions may vary based on name and training data available for particular nationalities.
 - Ensure that all paths of necessary assets and data files used by the notebooks are configured properly.
